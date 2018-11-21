@@ -1,0 +1,38 @@
+/* add your CSS here */
+body  {
+  width:320px;
+  font-family: "Open Sans", sans-serif;
+}
+
+#main  {
+  border: thin solid lightgray;
+  padding: 10px;
+  box-shadow: 5px 7px 5px 0px rgba(222,222,222,1);
+
+}
+
+img {
+    padding-bottom: 10px;
+
+}
+
+#description-box {
+  border: thin solid lightgray;
+  padding: 10px;
+
+}
+
+#key-fact {
+  font-style: italic;
+  color: darkslategray;
+}
+
+.term  {
+  font-weight: bold;
+}
+
+ul  {
+  list-style: none;
+  padding-left: 0;
+  text-align: inherit;
+}
